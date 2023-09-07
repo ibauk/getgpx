@@ -1,0 +1,4 @@
+github.com/flopp/go-coordsparser v0.0.0-20201115094714-8baaeb7062d5 h1:o5yuyiGtJ4c9ECOq12K6EqsQNnsGF6I+WqBZynB2Hlw=
+github.com/flopp/go-coordsparser v0.0.0-20201115094714-8baaeb7062d5/go.mod h1:t5EAdR9sDhKR06Ix2ZS/8jt8INpzeV3P5uVyEkCDYJc=
+github.com/mattn/go-sqlite3 v1.14.17 h1:mCRHCLDUBXgpKAqIKsaAaAsrAlbkeomtRFKXh2L6YIM=
+github.com/mattn/go-sqlite3 v1.14.17/go.mod h1:2eHXhiwb8IkHr+BDWZGa96P6+rkvnG63S2DGjv9HUNg=
